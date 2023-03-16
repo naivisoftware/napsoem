@@ -1,6 +1,6 @@
 {
     "Type": "nap::ModuleInfo",
-    "mID": "ModuleInfo",
+    "mID": "napsoem",
     "RequiredModules": [],
     "WindowsDllSearchPaths": []
 }
